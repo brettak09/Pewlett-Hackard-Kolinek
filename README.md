@@ -16,4 +16,4 @@ Performed data modeling, data engineering and data analysis directly with SQL
 
 - Postgres SQL
 - Quick DBD (for ERD)
-- Join of 6 CSV's int0 SQL database
+- Join of 6 CSV's into SQL database
